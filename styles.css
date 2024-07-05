@@ -1,0 +1,25 @@
+body{
+    background-color: #7093a5;
+}
+h1{
+    margin: auto;
+    background-color:#3f698e;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin: bottom 20px; 
+}
+h2{
+    text-align: center;
+    margin: bottom 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: burlywood;
+}
+img{
+    width: 300px;
+    height: 200px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius:25px ;
+    border: 2px solid black;
+}
